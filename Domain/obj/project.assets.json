@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jamie\\ReactActivities\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\jamie\\ReactActivities\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\jamie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jamie\\ReactActivities\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jamie\\ReactActivities\\API\\API.csproj": {}
+    "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jamie\\ReactActivities\\API\\API.csproj": {
+    "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jamie\\ReactActivities\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\jamie\\ReactActivities\\API\\API.csproj",
+        "projectPath": "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\jamie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jamie\\ReactActivities\\API\\obj\\",
+        "outputPath": "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,7 +31,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Application\\Application.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -63,6 +67,197 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\jamie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jamie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Persistance\\Persistance.csproj": {
+                "projectPath": "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Persistance\\Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\jamie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jamie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Persistance\\Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Persistance\\Persistance.csproj",
+        "projectName": "Persistance",
+        "projectPath": "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Persistance\\Persistance.csproj",
+        "packagesPath": "C:\\Users\\jamie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jamie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\jamie\\OneDrive\\Desktop\\ReactActivities\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

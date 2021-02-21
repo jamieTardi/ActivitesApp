@@ -1,0 +1,15 @@
+C:\Users\jamie\OneDrive\Desktop\ReactActivities\Persistance\bin\Debug\net5.0\Persistance.deps.json
+C:\Users\jamie\OneDrive\Desktop\ReactActivities\Persistance\bin\Debug\net5.0\Persistance.dll
+C:\Users\jamie\OneDrive\Desktop\ReactActivities\Persistance\bin\Debug\net5.0\ref\Persistance.dll
+C:\Users\jamie\OneDrive\Desktop\ReactActivities\Persistance\bin\Debug\net5.0\Persistance.pdb
+C:\Users\jamie\OneDrive\Desktop\ReactActivities\Persistance\bin\Debug\net5.0\Domain.dll
+C:\Users\jamie\OneDrive\Desktop\ReactActivities\Persistance\bin\Debug\net5.0\Domain.pdb
+C:\Users\jamie\OneDrive\Desktop\ReactActivities\Persistance\obj\Debug\net5.0\Persistance.csprojAssemblyReference.cache
+C:\Users\jamie\OneDrive\Desktop\ReactActivities\Persistance\obj\Debug\net5.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamie\OneDrive\Desktop\ReactActivities\Persistance\obj\Debug\net5.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\jamie\OneDrive\Desktop\ReactActivities\Persistance\obj\Debug\net5.0\Persistance.AssemblyInfo.cs
+C:\Users\jamie\OneDrive\Desktop\ReactActivities\Persistance\obj\Debug\net5.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\jamie\OneDrive\Desktop\ReactActivities\Persistance\obj\Debug\net5.0\Persistance.csproj.CopyComplete
+C:\Users\jamie\OneDrive\Desktop\ReactActivities\Persistance\obj\Debug\net5.0\Persistance.dll
+C:\Users\jamie\OneDrive\Desktop\ReactActivities\Persistance\obj\Debug\net5.0\ref\Persistance.dll
+C:\Users\jamie\OneDrive\Desktop\ReactActivities\Persistance\obj\Debug\net5.0\Persistance.pdb
